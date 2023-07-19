@@ -1,0 +1,84 @@
+body {
+    padding: 0 0 30px 0;
+    background-image: url("../images/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    letter-spacing: -0.3px;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    line-height: 1.6;
+    font-weight: 400;
+    font-family: open sans, Helvetica, Arial, sans-serif;
+    min-height: 100vh;
+  }
+  /* Footer.css */
+.footer {
+  background-color: #f8f9fa; /* Color de fondo del footer */
+  padding: 10px; /* Espacio interno alrededor del contenido del footer */
+  position: absolute; /* Posición absoluta para que esté alineado a la parte inferior */
+  right: 0; /* Alineación a la derecha */
+  bottom: 0; /* Alineación en la parte inferior */
+  left: 0; /* Asegura que el footer ocupe todo el ancho */
+  text-align: right; /* Alineación del contenido del footer a la derecha */
+}
+.about{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.socialNetworks{
+  background-color: rgb(233 233 233 / 44%) !important;
+  max-width: 380px !important;
+  border-radius: 1rem !important;
+}
+.socialNetworks img{
+  margin-right: 0.5rem !important;
+}
+.mision_vision_card{
+  background-color: rgb(233 233 233 / 44%) !important;
+  padding: 2rem 4rem;
+  max-width: 70%;
+  margin: 0 auto;
+}
+.mision_vision_card p{
+  font-weight:600;
+  font-size: 1.2rem;
+}
+.contact_card{
+  background-color: rgb(233 233 233 / 44%) !important;
+  display: flex !important;
+  flex-direction: row !important;
+  padding: 4rem 2rem !important;
+  max-width: 70% !important;
+  margin: 0 auto !important;
+  margin-top: 3rem !important;
+  border-radius: 1rem !important;
+}
+.contact_card .col{
+  padding: 0 1rem!important;  
+}
+.register_left_col{
+  background-color: rgb(233 233 233 / 44%) !important;
+  padding: 2rem 0 !important;
+  /* max-width: 40% !important; */
+  border-radius: 1rem !important;
+}
+.register_left_col .form-control{
+  background-color: #dcdcdc !important;
+  margin: 1rem 0 !important;
+}
+
+.register_right_col .row{
+  margin-top:1rem;
+}
+.register_right_col .card{
+  background-color: rgb(233 233 233 / 44%) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 50%;
+  padding: 1rem 2rem 2rem 2rem;
+  margin:0 auto;
+  border-radius: 1rem !important;
+}
