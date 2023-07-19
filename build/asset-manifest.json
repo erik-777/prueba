@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prueba.github.io/react-github-pages/build/static/css/main.019cb000.css",
+    "main.js": "/prueba.github.io/react-github-pages/build/static/js/main.6fc0591f.js",
+    "static/js/787.5b5dfee8.chunk.js": "/prueba.github.io/react-github-pages/build/static/js/787.5b5dfee8.chunk.js",
+    "static/media/mapa.png": "/prueba.github.io/react-github-pages/build/static/media/mapa.e1a15c82aeebd74637cc.png",
+    "static/media/instagram.webp": "/prueba.github.io/react-github-pages/build/static/media/instagram.1c2f1db50b812bfda6eb.webp",
+    "static/media/logo.png": "/prueba.github.io/react-github-pages/build/static/media/logo.df5a43f05c9bb11170b7.png",
+    "static/media/facebook.png": "/prueba.github.io/react-github-pages/build/static/media/facebook.15e9e015043c0c28a351.png",
+    "static/media/personas.jpg": "/prueba.github.io/react-github-pages/build/static/media/personas.a90388670335232680e0.jpg",
+    "static/media/rio.jpeg": "/prueba.github.io/react-github-pages/build/static/media/rio.e60b5e630494f6d1b61c.jpeg",
+    "static/media/fondo.jpg": "/prueba.github.io/react-github-pages/build/static/media/fondo.844698e306792794c039.jpg",
+    "static/media/pajaro1.webp": "/prueba.github.io/react-github-pages/build/static/media/pajaro1.4c259ba3afec166756ff.webp",
+    "static/media/tiktok.svg": "/prueba.github.io/react-github-pages/build/static/media/tiktok.144c40b446f9ce884e6e7b1d948a23ee.svg",
+    "static/media/logo.svg": "/prueba.github.io/react-github-pages/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/prueba.github.io/react-github-pages/build/index.html",
+    "main.019cb000.css.map": "/prueba.github.io/react-github-pages/build/static/css/main.019cb000.css.map",
+    "main.6fc0591f.js.map": "/prueba.github.io/react-github-pages/build/static/js/main.6fc0591f.js.map",
+    "787.5b5dfee8.chunk.js.map": "/prueba.github.io/react-github-pages/build/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019cb000.css",
+    "static/js/main.6fc0591f.js"
+  ]
+}
